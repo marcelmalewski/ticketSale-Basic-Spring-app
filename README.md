@@ -1,6 +1,1 @@
-# Ticket sale - web app
-
-## General info
-
-## Technologies
-...
+# Ticket sale (school project)
